@@ -1,3 +1,4 @@
+const fetch = require('node-fetch');
 const ACCESS_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjExMDAwMjcsInRpbWVzdGFtcCI6MTcyMTA0NDI4NDc2NCwidHlwZSI6MSwiaWF0IjoxNzIxMDQ0Mjg0LCJleHAiOjE3MjE2NDkwODR9.hhgWdflou7jS_KjJGUCg24uZfWo31jFn0UnjR1GNTZk"; // bỏ ACCESS_TOKEN lấy được vào đây
 let listColect = [];
 let listDuck = [];
